@@ -46,8 +46,8 @@ public class Main {
             }
         }
     }
-    public void Run(){
-
+    public int Run(){
+        return 1;
     }
 
 
