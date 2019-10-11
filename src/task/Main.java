@@ -50,6 +50,8 @@ public class Main {
         return 1;
     }
 
-
+    public int Run1(){
+        return 1;
+    }
 
 }
